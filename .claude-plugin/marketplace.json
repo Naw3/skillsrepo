@@ -1,0 +1,231 @@
+{
+    "name": "naw3-skills",
+    "description": "A curated collection of skills for AI coding agents, covering modern web development patterns with Next.js, React 19, Supabase, and more.",
+    "owner": {
+        "name": "Naw3"
+    },
+    "repository": "https://github.com/Naw3/skillsrepo",
+    "plugins": [
+        {
+            "name": "framer-motion",
+            "source": "./framer-motion",
+            "description": "Animation patterns and micro-interactions with Framer Motion",
+            "version": "1.0.0",
+            "category": "frontend",
+            "tags": [
+                "animation",
+                "react",
+                "motion",
+                "ui"
+            ]
+        },
+        {
+            "name": "react-19-patterns",
+            "source": "./react-19-patterns",
+            "description": "New React 19 APIs: use(), Server Components, Actions, Compiler",
+            "version": "1.0.0",
+            "category": "frontend",
+            "tags": [
+                "react",
+                "react-19",
+                "server-components",
+                "hooks"
+            ]
+        },
+        {
+            "name": "supabase-auth",
+            "source": "./supabase-auth",
+            "description": "Authentication flows and session management with Supabase",
+            "version": "1.0.0",
+            "category": "backend",
+            "tags": [
+                "supabase",
+                "auth",
+                "oauth",
+                "session"
+            ]
+        },
+        {
+            "name": "api-rate-limiting",
+            "source": "./api-rate-limiting",
+            "description": "Retry logic, circuit breakers, and request deduplication",
+            "version": "1.0.0",
+            "category": "backend",
+            "tags": [
+                "api",
+                "resilience",
+                "retry",
+                "circuit-breaker"
+            ]
+        },
+        {
+            "name": "seo-next",
+            "source": "./seo-next",
+            "description": "SEO patterns for Next.js App Router",
+            "version": "1.0.0",
+            "category": "frontend",
+            "tags": [
+                "seo",
+                "nextjs",
+                "metadata",
+                "sitemap"
+            ]
+        },
+        {
+            "name": "typescript-patterns",
+            "source": "./typescript-patterns",
+            "description": "Advanced TypeScript: generics, utility types, type guards",
+            "version": "1.0.0",
+            "category": "language",
+            "tags": [
+                "typescript",
+                "types",
+                "generics",
+                "patterns"
+            ]
+        },
+        {
+            "name": "error-handling",
+            "source": "./error-handling",
+            "description": "Error boundaries, API errors, logging, and recovery patterns",
+            "version": "1.0.0",
+            "category": "patterns",
+            "tags": [
+                "errors",
+                "boundaries",
+                "logging",
+                "recovery"
+            ]
+        },
+        {
+            "name": "tailwind-v4",
+            "source": "./tailwind-v4",
+            "description": "Tailwind CSS v4 features: @theme, container queries, utilities",
+            "version": "1.0.0",
+            "category": "styling",
+            "tags": [
+                "tailwind",
+                "css",
+                "styling",
+                "v4"
+            ]
+        },
+        {
+            "name": "git-conventional-commits",
+            "source": "./git-conventional-commits",
+            "description": "Standardized commit messages and semantic versioning",
+            "version": "1.0.0",
+            "category": "workflow",
+            "tags": [
+                "git",
+                "commits",
+                "semver",
+                "changelog"
+            ]
+        },
+        {
+            "name": "zustand-patterns",
+            "source": "./zustand-patterns",
+            "description": "State management with Zustand 5: slices, persist, devtools",
+            "version": "1.0.0",
+            "category": "state",
+            "tags": [
+                "zustand",
+                "state",
+                "react",
+                "store"
+            ]
+        },
+        {
+            "name": "next-cache-patterns",
+            "source": "./next-cache-patterns",
+            "description": "Next.js caching: cacheLife, PPR, revalidation strategies",
+            "version": "1.0.0",
+            "category": "performance",
+            "tags": [
+                "nextjs",
+                "cache",
+                "ppr",
+                "isr"
+            ]
+        },
+        {
+            "name": "testing-patterns",
+            "source": "./testing-patterns",
+            "description": "Testing with Vitest, React Testing Library, and Playwright",
+            "version": "1.0.0",
+            "category": "testing",
+            "tags": [
+                "vitest",
+                "testing",
+                "playwright",
+                "rtl"
+            ]
+        },
+        {
+            "name": "vercel-ai-sdk",
+            "source": "./vercel-ai-sdk",
+            "description": "Streaming LLM responses, tool calling, and structured outputs",
+            "version": "1.0.0",
+            "category": "ai",
+            "tags": [
+                "ai",
+                "llm",
+                "streaming",
+                "tools"
+            ]
+        },
+        {
+            "name": "mcp-server-dev",
+            "source": "./mcp-server-dev",
+            "description": "Building Model Context Protocol servers: tools, resources, prompts",
+            "version": "1.0.0",
+            "category": "ai",
+            "tags": [
+                "mcp",
+                "server",
+                "protocol",
+                "tools"
+            ]
+        },
+        {
+            "name": "pwa-next",
+            "source": "./pwa-next",
+            "description": "Service workers, offline support, and installability for Next.js",
+            "version": "1.0.0",
+            "category": "frontend",
+            "tags": [
+                "pwa",
+                "offline",
+                "service-worker",
+                "nextjs"
+            ]
+        },
+        {
+            "name": "database-migrations",
+            "source": "./database-migrations",
+            "description": "Migration patterns for Supabase, Prisma, and Drizzle ORM",
+            "version": "1.0.0",
+            "category": "database",
+            "tags": [
+                "migrations",
+                "prisma",
+                "drizzle",
+                "supabase"
+            ]
+        },
+        {
+            "name": "claude-code-plugins",
+            "source": "./claude-code-plugins",
+            "description": "Building Claude Code plugins: commands, agents, hooks, marketplaces",
+            "version": "1.0.0",
+            "category": "tools",
+            "tags": [
+                "claude",
+                "plugins",
+                "marketplace",
+                "commands"
+            ]
+        }
+    ]
+}

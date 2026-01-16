@@ -22,6 +22,7 @@ A curated collection of skills for AI coding agents, covering modern web develop
 | [`mcp-server-dev`](./mcp-server-dev/) | Building Model Context Protocol servers: tools, resources, prompts |
 | [`pwa-next`](./pwa-next/) | Service workers, offline support, and installability for Next.js |
 | [`database-migrations`](./database-migrations/) | Migration patterns for Supabase, Prisma, and Drizzle ORM |
+| [`claude-code-plugins`](./claude-code-plugins/) | Building Claude Code plugins: commands, agents, hooks, marketplaces |
 
 ## 🚀 Installation
 
